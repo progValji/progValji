@@ -29,7 +29,10 @@ Actualmente estoy aprendiendo Bases de datos con MySQL, también Javascript para
 Hice un pequeño proyecto, es una app web que se encarga de notificar por correo electronico cuando la pila de tú portatil este cargada. De momento solo esta en mi local. Me gustaría recibir ayuda en el manejo de APIS y como hacer un buen despliegue para que tenga una buena seguridad.  
 
 **¿Buscas a alguien para hacer Desarrollo Web?**  
-Me apasiona el desarrollo web, puedes preguntarme sobre ese tema. Estoy seguro que si me contactas puedo ayudarte y lograr un buen trabajo. 
+Me apasiona el desarrollo web, puedes preguntarme sobre ese tema. Estoy seguro que si me contactas puedo ayudarte y lograr un buen trabajo.  
+
+>[!NOTE]
+>Es cierto que me hace falta mucha mas información, con el paso del tiempo, subire más proyectos y actualizare este README especial 🤠.
 
 ## Conecta conmigo
 - **Correo:** ovaldovia983@gmail.com
